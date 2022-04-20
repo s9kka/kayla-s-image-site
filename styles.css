@@ -1,0 +1,25 @@
+/* CSS Document */
+
+
+img {
+	height: 40%;
+	width: 20%;
+
+
+	
+}
+
+body {
+	
+text-align:center;
+}
+
+.Left {
+	
+	text-align: left;
+}
+
+.Center {
+	
+	text-align:right;
+}
